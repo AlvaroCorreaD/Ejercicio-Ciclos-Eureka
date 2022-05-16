@@ -1,3 +1,3 @@
-# Ejercicio-Estructuras-de-Control-Eureka
+# Ejercicio-Ciclos-Eureka
 
 Created with CodeSandbox
